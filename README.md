@@ -8,7 +8,9 @@
 ##Link
 
 (https://DylanCorrea.github.io)
+
 ![Preview]
+
 #Pagina Principal
 ![image](https://github.com/user-attachments/assets/e591671f-493d-40a3-87a9-4cf5bfe6e8c9)
 
